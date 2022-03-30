@@ -4,6 +4,7 @@ description: Instructions, guidelines, and suggestions for writing titles and ab
   for research papers.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/7-340-immune-evasion-how-sneaky-pathogens-avoid-host-surveillance-spring-2004/6cb7c9e9741322d50ef8224c15b9e056_guide_title_abs.pdf
 file_type: application/pdf
+parent_uid: 790decb4-1773-c134-5baf-1cb7be0baf56
 resourcetype: Document
 title: Guidelines for writing Titles and Abstracts
 uid: 6cb7c9e9-7413-22d5-0ef8-224c15b9e056
